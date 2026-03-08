@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Abhishree Raj
+👋 Hi, I'm Abhishree Raj
 
-🎓 B.Tech CSE (Cyber Security) – Central University of Jammu  
+🎓 B.Tech CSE (Cyber Security)  
 🔐 Interested in Blue Teaming, Threat Detection, and Machine Learning Security  
 
 ---
 
-## 🚀 Projects
+🚀 Projects
 
 🔹 AI Password Strength Detector  
 Machine learning model that classifies passwords into Weak, Medium, and Strong using NLP techniques.
@@ -18,7 +18,7 @@ Automation script that creates Instagram accounts using temporary email services
 
 ---
 
-## 📚 Currently Learning
+📚 Currently Learning
 
 • SIEM Tools  
 • Threat Detection  
@@ -27,13 +27,13 @@ Automation script that creates Instagram accounts using temporary email services
 
 ---
 
-## 🛠️ Skills
+🛠️ Skills
 
 Python | Machine Learning | Cybersecurity | Git | Linux
 
 ---
 
-### 🌐 Connect With Me
+🌐 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/abhishree-raj" target="_blank">
