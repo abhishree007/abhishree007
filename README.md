@@ -36,10 +36,6 @@ Python | Machine Learning | Cybersecurity | Git | Linux
 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/abhishree-raj" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
-</a>
-&nbsp;&nbsp;
 <a href="mailto:abhishree03star@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25"/>
 </a>
