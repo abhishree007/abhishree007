@@ -9,10 +9,8 @@
 
 🔹 AI Password Strength Detector  
 Machine learning model that classifies passwords into Weak, Medium, and Strong using NLP techniques.
-
 🔹 Phishing URL Detection using Machine Learning  
 A model that detects malicious URLs using feature extraction and ML algorithms.
-
 🔹 Instagram Account Automation Bot  
 Automation script that creates Instagram accounts using temporary email services.
 
