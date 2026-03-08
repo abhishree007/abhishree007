@@ -32,11 +32,3 @@ Automation script that creates Instagram accounts using temporary email services
 Python | Machine Learning | Cybersecurity | Git | Linux
 
 ---
-
-🌐 Connect With Me
-
-<p>
-<a href="mailto:abhishree03star@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25"/>
-</a>
-</p>
